@@ -29,6 +29,7 @@
     Não, mas é inspirado nele, tendo sintaxes, unidades, heranças, posicionamentos e propriedades diferentes
 
 - O que são propriedades de componentes?
+    
 
 - O que são hooks?
     Nada mais é uma função do Javascript (react), fazem parte do CORE do react. Permitem usar o estado e outros recursos do react sem precisar escrever uma classe, o react fornece alguns hoojs integrados, como o 'usestate' - todo hook se inicia com USE - e você pode até mesmo criar o seu próprio hook, devem ser utilizados no 'top level'
