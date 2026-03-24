@@ -38,6 +38,8 @@
     Expo aceita mais formatação de imagem, porque é diferente por conta das versões
     npx expo install
 
+- Use Effect
+
 ## Comandos úteis
 
 // Como instalar o React Native com expo
